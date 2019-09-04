@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="032fd818-230e-43ea-b859-401cdb2bc3a4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="190" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="chatroom-starter" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PzjxzoqKzJhCdGjilgKGTaBXMg" />
+  <component name="PropertiesComponent">
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../submit/P01-Chatroom/starter_code" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.udacity.java.nano.test" />
+      <recent name="test" />
+      <recent name="edu.udacity.java.nano" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="edu.udacity.java.nano.test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adtya\Desktop\Nano Java\myEdsub\edit\P01-Chatroom\starter_code\src\test\java\edu.com.java.nano" />
+      <recent name="C:\Users\adtya\Desktop\Nano Java\myEdsub\edit\P01-Chatroom\starter_code\src" />
+      <recent name="C:\Users\adtya\Desktop\Nano Java\myEdsub\edit\P01-Chatroom\starter_code\src\main" />
+      <recent name="C:\Users\adtya\Desktop\Nano Java\myEdsub\edit\P01-Chatroom\starter_code\src\main\java\edu\udacity\java\nano" />
+      <recent name="C:\Users\adtya\Desktop\Nano Java\myEdsub\edit\P01-Chatroom\starter_code\src\test\java\edu\udacity\java\nano" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.WebSocketChatServerTest">
+    <configuration name="WebSocketChatApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.udacity.java.nano.WebSocketChatApplication" />
+      <module name="chatroom-starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.udacity.java.nano.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebSocketChatApplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chatroom-starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.udacity.java.nano.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.udacity.java.nano.test" />
+      <option name="MAIN_CLASS_NAME" value="edu.udacity.java.nano.test.WebSocketChatApplicationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebSocketChatApplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chatroom-starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.udacity.java.nano.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.udacity.java.nano" />
+      <option name="MAIN_CLASS_NAME" value="edu.udacity.java.nano.WebSocketChatApplicationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebSocketChatApplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chatroom-starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.udacity.java.nano.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.udacity.java.nano" />
+      <option name="MAIN_CLASS_NAME" value="edu.udacity.java.nano.WebSocketChatApplicationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebSocketChatServerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chatroom-starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.udacity.java.nano.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.udacity.java.nano.test" />
+      <option name="MAIN_CLASS_NAME" value="edu.udacity.java.nano.test.WebSocketChatServerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebSocketChatServerTest.chatRoomExit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chatroom-starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.udacity.java.nano.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.udacity.java.nano.test" />
+      <option name="MAIN_CLASS_NAME" value="edu.udacity.java.nano.test.WebSocketChatServerTest" />
+      <option name="METHOD_NAME" value="chatRoomExit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chatroom-starter-0.0.1-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/chatroom-starter-0.0.1-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.chatroom-starter-0.0.1-SNAPSHOT.jar" />
+        <item itemvalue="JUnit.WebSocketChatServerTest" />
+        <item itemvalue="JUnit.WebSocketChatApplicationTest" />
+        <item itemvalue="Application.WebSocketChatApplication" />
+        <item itemvalue="JUnit.WebSocketChatServerTest.chatRoomExit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="032fd818-230e-43ea-b859-401cdb2bc3a4" name="Default Changelist" comment="" />
+      <created>1566884069760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566884069760</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/chatroom_starter$chatroom_starter_0_0_1_SNAPSHOT_jar.ic" NAME="chatroom-starter-0.0.1-SNAPSHOT.jar Coverage Results" MODIFIED="1567601311170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

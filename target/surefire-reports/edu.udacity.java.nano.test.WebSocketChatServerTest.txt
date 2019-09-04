@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.udacity.java.nano.test.WebSocketChatServerTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 48.205 s - in edu.udacity.java.nano.test.WebSocketChatServerTest

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: jetty:jetty:4.2.27">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/jetty/jetty/4.2.27/jetty-4.2.27.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/jetty/jetty/4.2.27/jetty-4.2.27-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/jetty/jetty/4.2.27/jetty-4.2.27-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
