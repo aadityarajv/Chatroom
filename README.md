@@ -1,4 +1,4 @@
-# chatroom-starter
+# Chatroom
  Java websocket chat application using Spring Boot and Thymeleaf
 # Chat Room
 Complete the chat room application implementation using WebSocket.
